@@ -2,6 +2,7 @@ package gti_01.leonardots.alg.helpers;
 
 import gti_01.leonardots.alg.exercises.Exe_041;
 import gti_01.leonardots.alg.exercises.Exe_045;
+import gti_01.leonardots.alg.exercises.Exe_068;
 import gti_01.leonardots.alg.exercises.IExercise;
 import java.util.ArrayList;
 import java.util.List;
@@ -41,8 +42,8 @@ public final class Exercises {
             case 3:
                 break;
             case 4:
+                exercises.add(new Exe_068());
                 break;
-
             default:
                 break;
         }

@@ -14,7 +14,7 @@ public class Main {
 
         Scanner keyboard = new Scanner(System.in);
 
-        View.runView(keyboard, getExercisesList(1));
+        View.runView(keyboard, getExercisesList(4));
 
     }
 
